@@ -3583,13 +3583,6 @@ slice-ansi@^4.0.0:
     astral-regex "^2.0.0"
     is-fullwidth-code-point "^3.0.0"
 
-snowpack-plugin-import-map@^1.1.4:
-  version "1.1.4"
-  resolved "https://registry.yarnpkg.com/snowpack-plugin-import-map/-/snowpack-plugin-import-map-1.1.4.tgz#9e728c25c4b59f6427d5a6f888231bc2eea842b7"
-  integrity sha512-16SN+nFcB2c54w5+jWzhB1P69GyjxjDfaPS4XgWNH6HVzDMca2L14VdzluYvoOaw15xmDih26zqBPMptEiF81A==
-  dependencies:
-    is-number "^7.0.0"
-
 snowpack@^2.18.5:
   version "2.18.5"
   resolved "https://registry.yarnpkg.com/snowpack/-/snowpack-2.18.5.tgz#10a0130fb1eeecda6dfd3be1b1b60ff9849e3da4"

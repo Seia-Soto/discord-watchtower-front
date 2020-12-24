@@ -5,7 +5,7 @@
   "author": "Seia-Soto <seia@outlook.kr>",
   "license": "MIT",
   "scripts": {
-    "start": "snowpack dev --reload --polyfill-node",
+    "start": "snowpack dev --reload",
     "build": "snowpack build --clean"
   },
   "devDependencies": {
@@ -20,8 +20,7 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-react": "^7.21.5",
     "eslint-plugin-standard": "^5.0.0",
-    "snowpack": "^2.18.5",
-    "snowpack-plugin-import-map": "^1.1.4"
+    "snowpack": "^2.18.5"
   },
   "dependencies": {
     "@chakra-ui/react": "^1.0.4",
