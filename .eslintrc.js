@@ -6,12 +6,14 @@ module.exports = {
     node: true
   },
   extends: [
-    'standard'
+    'standard',
+    'standard-react'
   ],
   globals: {
     Atomics: 'readonly',
     SharedArrayBuffer: 'readonly'
   },
+  parser: 'babel-eslint',
   parserOptions: {
     ecmaVersion: 2018
   },
